@@ -75,7 +75,9 @@
     padding: 1%;
 }
 
-#experiencia2 {
+
+
+#experiencia, #educacion, #skills, #proyectos {
     background-color: #737373;
     padding: 3%;
     border: 2px solid;
